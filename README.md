@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chaiyes
+- 👋 Hi, I was @Chaiyes. I’m @alessandrochiaiese 
 - 👀 I’m interested in ... Blockchain, Machine Learning, Web Server, Project Management, Business Management
 - 🌱 I’m currently learning ... Create Smartchain that allow to encode Smart Contract wrote in Python, Multiplayer Mirror Unity
 - 💞️ I’m looking to collaborate on ... Web Developing, Game Developing, Project Management, Business Management, Launching my Smartchain and create different        cryptocurrencies that support others WIP
